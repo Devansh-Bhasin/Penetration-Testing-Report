@@ -39,7 +39,7 @@ All testing was performed in a controlled lab environment using intentionally vu
 
 The full sanitized penetration testing report is available here:
 
-[View Report](reports/Metasploitable2-Security-Assessment.pdf)
+[View Report](reports/Penetration Testing Report-devansh-bhasin)
 
 ## Key Findings
 
