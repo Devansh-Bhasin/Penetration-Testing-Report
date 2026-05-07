@@ -39,7 +39,7 @@ All testing was performed in a controlled lab environment using intentionally vu
 
 The full sanitized penetration testing report is available here:
 
-[View Report](report/Penetration-Testing-Report-devansh-bhasin)
+[View Report](report/Penetration-Testing-Report-devansh-bhasin.pdf)
 
 ## Key Findings
 
